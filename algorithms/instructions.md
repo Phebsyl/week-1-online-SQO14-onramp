@@ -1,3 +1,4 @@
+'
 # Challenge 1
 Implement a function countTruthy(arr) that takes an array and returns the number of truthy values
 

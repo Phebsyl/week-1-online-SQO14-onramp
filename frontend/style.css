@@ -1,0 +1,8 @@
+
+model{
+	height: 522px;
+	position:absolute;
+	bottom: 40px;
+	left: 85%;
+	transform: translateX(-70%);
+}
